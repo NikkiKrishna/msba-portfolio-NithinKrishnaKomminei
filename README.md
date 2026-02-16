@@ -1,2 +1,2 @@
-# msba-portfolio-NithinKrishnaKomminei
+# msba-portfolio-NithinKrishnaKommineni
 Customer Churn Rate Project 
